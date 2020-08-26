@@ -1,2 +1,2 @@
-# 24-mavzu
+# NAMANGANLIKLAR24
 News website Uzbekistan
